@@ -1,6 +1,5 @@
 [
   {
-    "package": "this.path",
-    "oncran": true
+    "package": "this.path"
   }
 ]
